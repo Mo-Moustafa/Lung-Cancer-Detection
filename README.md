@@ -26,7 +26,8 @@ Here are the imports of the used libraries
 
 ## Visualization
 
-Each scan contains several slices that show an image of human chest from different sides and angles. Here are some random samples of the 3 different classes in the data: 
+Each scan contains several slices that show an image of human chest from different sides and angles. Here are some random samples of the 3 different classes in the data:
+
 ![v1](https://github.com/Mo-Moustafa/Lung-Cancer-Detection/assets/81877648/988f02e3-7cc7-4aae-bdfb-2758c49f9a92)
 ![v2](https://github.com/Mo-Moustafa/Lung-Cancer-Detection/assets/81877648/f8c6c738-44de-4a7d-b2c2-fe90af3f264f)
 ![v3](https://github.com/Mo-Moustafa/Lung-Cancer-Detection/assets/81877648/d9fe8205-4699-4151-8fd7-4f97e67780b7)
